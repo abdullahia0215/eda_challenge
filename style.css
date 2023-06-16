@@ -5,12 +5,12 @@ body {
 }
 
 h1 {
-  color: #6F4E37;
+  color: blue;
   margin-bottom: 10px;
 }
 
 h2 {
-  color: #333;
+  background-color: red;
   margin-top: 20px;
 }
 
